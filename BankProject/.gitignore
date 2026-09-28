@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
